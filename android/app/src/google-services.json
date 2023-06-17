@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996552945030",
+    "project_id": "smart-helmet-fdc1a",
+    "storage_bucket": "smart-helmet-fdc1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996552945030:android:29deac324a1cb398779007",
+        "android_client_info": {
+          "package_name": "com.spider.smart_helmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996552945030-mbblhaitvv8nq2jkogcpns88v6f5fpn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spider.smart_helmet",
+            "certificate_hash": "80f0bd21c386025e1482cbd1e38ed08e02b2d90e"
+          }
+        },
+        {
+          "client_id": "996552945030-rfq7bdlr6vqfht1tghl2mhdjrta2bgni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQnPhbC5UB6QD3JnV9sDYASyuDTUawvqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996552945030-rfq7bdlr6vqfht1tghl2mhdjrta2bgni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
